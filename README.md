@@ -15,7 +15,7 @@ Ce projet est une application web développée avec Spring Boot , intégrant la 
   - Thymeleaf : Moteur de templates HTML
   - Bootstrap 5 : Pour la mise en page et l’aspect visuel
   - H2 Database (en mémoire) : Base de données utilisée pour les tests
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7e589450-f209-43aa-869b-880388afcd79)
 
 
 ## Packages Principaux
