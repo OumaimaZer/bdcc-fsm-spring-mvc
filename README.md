@@ -1,3 +1,7 @@
+# Rapport de la vidéo Spring MVC Thylemeaf Spring Data JPA (All In One Spring MVC Thymeleaf Spring Security - Master II-BDCC) , réalisée par Mr.Mohamed Youssfi
+Cette vidéo offre une démonstration pratique de la mise en œuvre d'une application Spring Boot avec Spring MVC, JPA et Thymeleaf. Ce projet représente une application web simple permettant de gérer une liste de produits.
+
+Lien : https://www.youtube.com/watch?v=FHy7raIldgg
 
 ## Introduction
 Ce projet est une application web développée avec Spring Boot , intégrant la sécurité via Spring Security , et utilisant Thymeleaf comme moteur de template. L'objectif semble être la gestion d’un catalogue de produits avec des fonctionnalités CRUD (Créer, Lire, Mettre à jour, Supprimer), en distinguant les rôles utilisateurs (USER) et administrateurs (ADMIN).
@@ -11,6 +15,8 @@ Ce projet est une application web développée avec Spring Boot , intégrant la 
   - Thymeleaf : Moteur de templates HTML
   - Bootstrap 5 : Pour la mise en page et l’aspect visuel
   - H2 Database (en mémoire) : Base de données utilisée pour les tests
+![Uploading image.png…]()
+
 
 ## Packages Principaux
   - net.zerhouani.bdccfsmspringmvc.sec : Configuration de la sécurité
